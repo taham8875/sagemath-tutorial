@@ -233,7 +233,7 @@ if you are working in jupyter notebook (note the console), the latest command `s
 sage: show(sqrt(7))
 ```
 ```math
-\newcommand{\Bold}[1]{\mathbf{#1}}\sqrt{7}
+\sqrt{7}
 ```
 
 Show some complex expressions
@@ -242,7 +242,7 @@ Show some complex expressions
 sage : show(integrate(x^2 + 2*x + 1, x))
 ```
 ```math
-\newcommand{\Bold}[1]{\mathbf{#1}}\frac{1}{3} \, x^{3} + x^{2} + x
+\frac{1}{3} \, x^{3} + x^{2} + x
 ```
 
 
