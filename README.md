@@ -1,3 +1,5 @@
+Cheat sheet for my tutorial [SageMath for Beginners: A Quickstart  Guide in 60 Minutes | بالعربي](https://youtu.be/w8doIWupgB8)
+
 # Chapter 1: Installation and initial setup
 
 ## 1.1: Installation
